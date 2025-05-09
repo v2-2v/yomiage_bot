@@ -1,1 +1,4 @@
 # yomiage_bot
+
+# Discord　のボイスチャンネルに参加してメッセージを読み上げるBOTです
+読み上げソースとして別でffmpegとvoicebox engineが必要です
